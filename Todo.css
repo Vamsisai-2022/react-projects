@@ -1,0 +1,18 @@
+input{
+    border-radius: 5px;
+}
+h5{
+   margin: 15px; 
+}
+input[type='submit']{
+    background-color: greenyellow;
+    padding: 0px 20px 0px 20px;
+    
+}
+button{
+   background-color: red; 
+   color: white;
+   border-radius: 5px;
+   padding: 5px;
+   margin-left: 25px;
+}
