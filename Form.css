@@ -1,0 +1,32 @@
+input{
+    border-radius: 5px;
+    margin-top: 5px;
+    display: flex;
+    color: black;
+}
+.border{
+    border: 5px solid red ;
+    width: 200px;
+    margin-left: 200px;
+    height: 200px;
+}
+input:hover{
+    color: blue;
+    border-radius: 10px;
+}
+label{
+    color: blue;
+    font-size: 20px;
+    font-style: oblique;
+    font-style: unset;
+}
+.submit{
+    margin-top: 15px;
+    border: 2px solid black;
+    border-radius: 5px;
+    
+}
+.submit:hover{
+    background-color: brown;
+    color: darkkhaki;
+}
