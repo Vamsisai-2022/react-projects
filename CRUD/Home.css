@@ -1,0 +1,29 @@
+table,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    color: blue;
+    
+    align-items: center;
+    text-align: center;
+ 
+}
+tr:nth-child(even){
+    color:green;
+    background-color: darkorange;
+}
+
+.edit{
+    color: blue;
+}
+.add{
+    color: darkgreen;
+    background-color: greenyellow;
+}
+.delete{
+    color: red;  
+}
+button{
+    padding: 5px;
+    margin: 2px;
+    border-radius: 5px;
+}
